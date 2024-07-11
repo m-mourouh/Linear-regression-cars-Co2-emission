@@ -1,7 +1,7 @@
 # APP: Linear Regression Cars Co2 Emission
 
 # Importing necessary libraries
-```
+```python
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
