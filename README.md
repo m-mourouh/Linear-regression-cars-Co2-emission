@@ -1,5 +1,13 @@
 # APP: Linear Regression Cars Co2 Emission
 
+# Importing necessary libraries
+`import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_squared_error, r2_score
+`
 # Distribution of CO2 Emissions
 
 ![Distribution of CO2 Emissions](https://github.com/m-mourouh/Linear-regression-cars-Co2-emission/assets/60442896/d3ae0a37-0745-41e5-a10f-eeb08fa1203f)
